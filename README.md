@@ -12,7 +12,7 @@ This repository contains source code and a brief description of the AES256-GCM-1
 ## Project description
 The AES256-GCM IP Core supports 256-bit AES encryption and decryption in Galois/Counter Mode (GCM) which is widely used for Authenticated Encryption with Associated Data (AEAD) application. More details about this IP can be found through this [link](https://dgway.com/ASIP_E.html#AESGCM).
 
-In addition to this free evaluation demo, we also offer another demo application where this IP is applied in an actual environment. If you are interested in testing the full system, please contact us. This free demo, however, includes a simple system that demonstrates how our encryption IP core functions. The illustration below shows the overall system of this free demo, with more details described further below.
+This free demo showcases a basic system that highlights the functionality of our encryption IP core. The diagram below provides the overview of this free demo, with more details described further below.
 
 ![block-diagram](./docs/AES256GCM100GDemo.PNG)
 
@@ -25,4 +25,9 @@ The project directory is briefly explained below.
     ├───ip - directory for the encrypted IP file
     └───hdl-top - HDL files of this project
 ```
+
+In addition to this free evaluation demo, we provide other demo applications for this IP core, please visit our [website](https://dgway.com/ASIP_E.html#AESGCM)
+ for more information. 
+
+Moreover, our IP is applicable for communication security protocols such as TLS. We also offer a complete TLS system that includes AES256GCM-IP to archive transfer speed up to 10 Gbps. For further details on our TLS-IP and its demonstration, please reach out to us.
 
