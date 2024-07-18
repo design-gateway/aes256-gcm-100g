@@ -29,5 +29,5 @@ The project directory is briefly explained below.
 In addition to this free evaluation demo, we provide other demo applications for this IP core, please visit our [website](https://dgway.com/ASIP_E.html#AESGCM)
  for more information. 
 
-Moreover, our IP is applicable for communication security protocols such as TLS. We also offer a complete TLS system that includes AES256GCM-IP to archive transfer speed up to 10 Gbps. For further details on our TLS-IP and its demonstration, please reach out to us.
+Moreover, our IP is applicable for communication security protocols such as TLS. We also offer a complete TLS system, [TLS10G-IP](https://dgway.com/ASIP_E.html#TLS), which includes AES256GCM-IP to archive transfer speed up to 10 Gbps. For further details on our TLS-IP and its demonstration, please reach out to us.
 
